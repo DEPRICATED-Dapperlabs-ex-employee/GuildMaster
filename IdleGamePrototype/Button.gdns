@@ -1,0 +1,8 @@
+[gd_resource type="NativeScript" format=2]
+
+[resource]
+
+resource_name = "ClickButton"
+class_name = "ClickButton"
+_sections_unfolded = [ "Resource" ]
+
